@@ -59,3 +59,6 @@ route.post(
 ```
 
 [Read more about celebrate here](https://github.com/arb/celebrate) and [the Joi validation API](https://github.com/hapijs/joi/blob/v15.0.1/API.md)
+
+
+[![HitCount](http://hits.dwyl.com/ajitfawade/node-boilerplate.svg)](http://hits.dwyl.com/ajitfawade/node-boilerplate)
